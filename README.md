@@ -1,4 +1,4 @@
-# Deploy-Ngnix-NetdroidDale permisos de ejecución:
+Deploy-Ngnix-NetdroidDale permisos de ejecución:
 
 
 
